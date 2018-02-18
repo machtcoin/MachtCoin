@@ -1,0 +1,9 @@
+Building MachtCoin
+
+See doc/readme-qt.rst for instructions on building MachtCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MachtCoin.
+
+See doc/build-*.txt for instructions on building MachtCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MachtCoin.

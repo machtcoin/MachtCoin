@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>MachtCoin.icns</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleGetInfoString</key>
+	<string>MachtCoin-Qt</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleExecutable</key>
+	<string>MachtCoin-Qt</string>
+	<key>CFBundleIdentifier</key>
+	<string>co.machtcoin.MachtCoin-Qt</string>
+  <key>CFBundleURLTypes</key>
+  <array>
+    <dict>
+      <key>CFBundleTypeRole</key>
+      <string>Editor</string>
+      <key>CFBundleURLName</key>
+      <string>co.machtcoin.MachtCoinPayment</string>
+      <key>CFBundleURLSchemes</key>
+      <array>
+        <string>machtcoin</string>
+      </array>
+    </dict>
+  </array>
+  <key>NSPrincipalClass</key>
+  <string>NSApplication</string>
+  <key>NSHighResolutionCapable</key>
+  <string>True</string>
+  <key>LSAppNapIsDisabled</key>
+  <string>True</string>
+</dict>
+</plist>
